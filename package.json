@@ -1,0 +1,10 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --watch db.json --port 10000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0"
+  }
+}

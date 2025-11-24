@@ -1,0 +1,371 @@
+{
+  "pokemon": [
+    {
+      "id": "2",
+      "nombre": "Charmander",
+      "tipo": [
+        "Fuego"
+      ],
+      "nivel": 5,
+      "region": "Kanto"
+    },
+    {
+      "id": "3",
+      "nombre": "Squirtle",
+      "tipo": [
+        "Agua"
+      ],
+      "nivel": 5,
+      "region": "Kanto"
+    },
+    {
+      "id": "4",
+      "nombre": "Pikachu",
+      "tipo": [
+        "Eléctrico"
+      ],
+      "nivel": 12,
+      "region": "Kanto"
+    },
+    {
+      "id": "5",
+      "nombre": "Jigglypuff",
+      "tipo": [
+        "Normal",
+        "Hada"
+      ],
+      "nivel": 10,
+      "region": "Kanto"
+    },
+    {
+      "id": "6",
+      "nombre": "Meowth",
+      "tipo": [
+        "Normal"
+      ],
+      "nivel": 9,
+      "region": "Kanto"
+    },
+    {
+      "id": "7",
+      "nombre": "Psyduck",
+      "tipo": [
+        "Agua"
+      ],
+      "nivel": 14,
+      "region": "Kanto"
+    },
+    {
+      "id": "8",
+      "nombre": "Machop",
+      "tipo": [
+        "Lucha"
+      ],
+      "nivel": 11,
+      "region": "Kanto"
+    },
+    {
+      "id": "9",
+      "nombre": "Magnemite",
+      "tipo": [
+        "Eléctrico",
+        "Acero"
+      ],
+      "nivel": 15,
+      "region": "Kanto"
+    },
+    {
+      "id": "10",
+      "nombre": "Gastly",
+      "tipo": [
+        "Fantasma",
+        "Veneno"
+      ],
+      "nivel": 13,
+      "region": "Kanto"
+    },
+    {
+      "id": "11",
+      "nombre": "Eevee",
+      "tipo": [
+        "Normal"
+      ],
+      "nivel": 16,
+      "region": "Kanto"
+    },
+    {
+      "id": "12",
+      "nombre": "Vulpix",
+      "tipo": [
+        "Fuego"
+      ],
+      "nivel": 14,
+      "region": "Kanto"
+    },
+    {
+      "id": "13",
+      "nombre": "Growlithe",
+      "tipo": [
+        "Fuego"
+      ],
+      "nivel": 18,
+      "region": "Kanto"
+    },
+    {
+      "id": "14",
+      "nombre": "Poliwag",
+      "tipo": [
+        "Agua"
+      ],
+      "nivel": 9,
+      "region": "Kanto"
+    },
+    {
+      "id": "15",
+      "nombre": "Abra",
+      "tipo": [
+        "Psíquico"
+      ],
+      "nivel": 12,
+      "region": "Kanto"
+    },
+    {
+      "id": "16",
+      "nombre": "Geodude",
+      "tipo": [
+        "Roca",
+        "Tierra"
+      ],
+      "nivel": 10,
+      "region": "Kanto"
+    },
+    {
+      "id": "17",
+      "nombre": "Onix",
+      "tipo": [
+        "Roca",
+        "Tierra"
+      ],
+      "nivel": 20,
+      "region": "Kanto"
+    },
+    {
+      "id": "18",
+      "nombre": "Cubone",
+      "tipo": [
+        "Tierra"
+      ],
+      "nivel": 17,
+      "region": "Kanto"
+    },
+    {
+      "id": "19",
+      "nombre": "Koffing",
+      "tipo": [
+        "Veneno"
+      ],
+      "nivel": 14,
+      "region": "Kanto"
+    },
+    {
+      "id": "20",
+      "nombre": "Rhyhorn",
+      "tipo": [
+        "Tierra",
+        "Roca"
+      ],
+      "nivel": 19,
+      "region": "Kanto"
+    },
+    {
+      "id": "6b83",
+      "nombre": "Test",
+      "tipo": [
+        "Fuego",
+        "Planta"
+      ],
+      "nivel": 1,
+      "region": "Galar"
+    },
+    {
+      "id": "c4b4",
+      "nombre": "dfad",
+      "tipo": [
+        "Normal",
+        "Agua"
+      ],
+      "nivel": 5,
+      "region": "Paldea"
+    },
+    {
+      "id": "f24c",
+      "nombre": "Adrianer",
+      "tipo": [
+        "Lucha"
+      ],
+      "nivel": 5,
+      "region": "San José"
+    },
+    {
+      "id": "4361",
+      "nombre": "Test",
+      "tipo": [
+        "Normal"
+      ],
+      "nivel": 1,
+      "region": "Galar"
+    },
+    {
+      "id": "f356",
+      "nombre": "Adrianer",
+      "tipo": [
+        "Lucha",
+        "Veneno"
+      ],
+      "nivel": 100,
+      "region": "Unova"
+    }
+  ],
+  "paises": [
+    {
+      "id": "1",
+      "nombre": "España",
+      "capital": "Madrid",
+      "continente": "Europa",
+      "poblacion": 48000000
+    },
+    {
+      "id": "2",
+      "nombre": "Francia",
+      "capital": "París",
+      "continente": "Europa",
+      "poblacion": 67000000
+    },
+    {
+      "id": "3",
+      "nombre": "Alemania",
+      "capital": "Berlín",
+      "continente": "Europa",
+      "poblacion": 83000000
+    },
+    {
+      "id": "4",
+      "nombre": "Italia",
+      "capital": "Roma",
+      "continente": "Europa",
+      "poblacion": 60000000
+    },
+    {
+      "id": "5",
+      "nombre": "Portugal",
+      "capital": "Lisboa",
+      "continente": "Europa",
+      "poblacion": 10000000
+    },
+    {
+      "id": "6",
+      "nombre": "México",
+      "capital": "Ciudad de México",
+      "continente": "América",
+      "poblacion": 126000000
+    },
+    {
+      "id": "7",
+      "nombre": "Argentina",
+      "capital": "Buenos Aires",
+      "continente": "América",
+      "poblacion": 45000000
+    },
+    {
+      "id": "8",
+      "nombre": "Brasil",
+      "capital": "Brasilia",
+      "continente": "América",
+      "poblacion": 213000000
+    },
+    {
+      "id": "9",
+      "nombre": "Estados Unidos",
+      "capital": "Washington D. C.",
+      "continente": "América",
+      "poblacion": 331000000
+    },
+    {
+      "id": "10",
+      "nombre": "Canadá",
+      "capital": "Ottawa",
+      "continente": "América",
+      "poblacion": 38000000
+    },
+    {
+      "id": "11",
+      "nombre": "Japón",
+      "capital": "Tokio",
+      "continente": "Asia",
+      "poblacion": 125000000
+    },
+    {
+      "id": "12",
+      "nombre": "China",
+      "capital": "Pekín",
+      "continente": "Asia",
+      "poblacion": 1400000000
+    },
+    {
+      "id": "13",
+      "nombre": "Corea del Sur",
+      "capital": "Seúl",
+      "continente": "Asia",
+      "poblacion": 52000000
+    },
+    {
+      "id": "14",
+      "nombre": "India",
+      "capital": "Nueva Delhi",
+      "continente": "Asia",
+      "poblacion": 1390000000
+    },
+    {
+      "id": "15",
+      "nombre": "Australia",
+      "capital": "Canberra",
+      "continente": "Oceanía",
+      "poblacion": 26000000
+    },
+    {
+      "id": "16",
+      "nombre": "Sudáfrica",
+      "capital": "Pretoria",
+      "continente": "África",
+      "poblacion": 60000000
+    },
+    {
+      "id": "17",
+      "nombre": "Egipto",
+      "capital": "El Cairo",
+      "continente": "África",
+      "poblacion": 104000000
+    },
+    {
+      "id": "18",
+      "nombre": "Nigeria",
+      "capital": "Abuya",
+      "continente": "África",
+      "poblacion": 206000000
+    },
+    {
+      "id": "19",
+      "nombre": "Marruecos",
+      "capital": "Rabat",
+      "continente": "África",
+      "poblacion": 37000000
+    },
+    {
+      "id": "20",
+      "nombre": "Suecia",
+      "capital": "Estocolmo",
+      "continente": "Europa",
+      "poblacion": 10500000
+    }
+  ]
+}
